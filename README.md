@@ -5,7 +5,7 @@ Version #1
 **Feira de Santana, BA | Brasil**  
 **Email:** pontochavedesign@gmail.com  
 **GitHub:** @rodrigochavesoa  
-**LinkedIn:** [rodrigochavesoa](www.linkedin.com/in/rodrigochavesoa) 
+**LinkedIn:** [rodrigochavesoa]
 
 ---
 
