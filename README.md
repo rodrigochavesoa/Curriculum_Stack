@@ -5,13 +5,13 @@ Version #1
 **Feira de Santana, BA | Brasil**  
 **Email:** pontochavedesign@gmail.com  
 **GitHub:** @rodrigochavesoa  
-**LinkedIn:** [rodrigo-chaves]
+**LinkedIn:** [rodrigochavesoa](www.linkedin.com/in/rodrigochavesoa) 
 
 ---
 
 ## PERFIL PROFISSIONAL
 
-Engenheiro de Software Full-Stack com especialização em soluções baseadas em Inteligência Artificial, arquitetura RAG e automação de processos. Experiência comprovada no desenvolvimento de produtos SaaS que integram IA generativa, processamento de linguagem natural e design centrado no usuário. Histórico de entrega de sistemas escaláveis com foco em impacto mensurável e sustentabilidade técnica.
+Full-Stack Developer com especialização em soluções baseadas em Inteligência Artificial, arquitetura RAG e automação de processos. Experiência comprovada no desenvolvimento de produtos SaaS que integram IA generativa, processamento de linguagem natural e design centrado no usuário. Histórico de entrega de sistemas escaláveis com foco em impacto mensurável e sustentabilidade técnica.
 
 **Áreas de Atuação:**
 - Arquitetura de sistemas de IA com Large Language Models (LLMs)
@@ -31,7 +31,7 @@ Liderança técnica e estratégica de agência AI-Driven especializada em soluç
 
 **Principais Projetos:**
 
-#### STAFF Personal Trainer (2024 - Atual)
+#### STAFF Personal Trainer (2019 - Atual)
 **Cargo:** Founder & Lead Developer  
 **Stack:** Python, LangChain, Google Gemini 2.5, FAISS, RAG, Tkinter, SQLite, Pandas, PyMuPDF
 
@@ -84,7 +84,7 @@ Plataforma web que combina guia de exercícios de academia com loja virtual de p
 - API REST para integração com Mercado Livre
 - Git workflow com branches de desenvolvimento e produção
 
-#### Monitor de Licitações PNCP (2023 - 2024)
+#### Monitor de Licitações PNCP (2024 - Atual)
 **Cargo:** Arquiteto de Software & Desenvolvedor  
 **Stack:** Python, Node.js, Express.js, RESTful API, GeoPy, ClickUp API, Pandas, Shapefile Processing
 
@@ -112,8 +112,8 @@ Sistema escalável para monitoramento automatizado de licitações públicas em 
 - Sistema de configuração flexível baseado em environment variables
 
 ### WP7 Engenharia | Consultor de Produtividade & Automação
-**Período:** 2022 - 2023  
-**Localização:** Salvador, BA (Híbrido)
+**Período:** 2024 - Atual  
+**Localização:** Serrinha, BA (Híbrido)
 
 Desenvolvimento de soluções de automação para gestão de obras e processos administrativos.
 
@@ -158,6 +158,8 @@ GeoPy, Shapefile Processing, Spatial Analysis, Distance Calculations, Geographic
 **UX Design** | Research, Design Thinking, Prototipagem  
 **Python Development** | Backend, APIs, Data Processing  
 **AI/ML** | LangChain, RAG, Vector Databases, Embeddings
+**Profissional de Educação Física** | Reabilitação de Lesões e Doenças Musculoesqueléticas
+**Engenharia de Produção** | Gestão de Pessoas e Fluxo de Trabalho em Produção.
 
 ---
 
@@ -194,7 +196,7 @@ Busco oportunidades em empresas que valorizam IA aplicada, automação inteligen
 
 **Email:** pontochavedesign@gmail.com  
 **GitHub:** @rodrigochavesoa  
-**LinkedIn:** [rodrigo-chaves]  
+**LinkedIn:** @rodrigochavesoa  
 **Localização:** Feira de Santana, BA - Brasil  
 **Disponibilidade:** Remoto | Híbrido | Presencial
 
@@ -203,12 +205,12 @@ Busco oportunidades em empresas que valorizam IA aplicada, automação inteligen
 ## PORTFÓLIO DE PROJETOS
 
 **STAFF Personal Trainer**  
-GitHub: [staff-personal-trainer]  
+WebSite: [[staff-personal-trainer] ](https://www.rcstorestaff.com.br/staff) 
 Status: Beta Testing | Aberto a investidores  
 Tech Stack: Python, LangChain, Gemini 2.5, FAISS, RAG, Tkinter
 
 **RC Store - Plataforma Fitness**  
-GitHub: [rc-store]  
+GitHub: [rc-store]  (https://www.rcstorestaff.com.br/loja) 
 Status: Produção  
 Tech Stack: HTML5, CSS3, JavaScript, Node.js, Netlify Functions, OAuth 2.0
 
@@ -225,11 +227,11 @@ Tech Stack: Python, Node.js, Express, GeoPy, ClickUp API
 
 #======================================================================================
 
-Version #2
+Version English
 # Rodrigo Chaves
 ## 🎯 AI Engineer | Python Developer | UX/PM especializado em IA & Automação
 
-**Salvador, BA | LinkedIn: [seu-linkedin] | GitHub: @rodrigochavesoa**  
+**Salvador, BA | LinkedIn: [www.linkedin.com/in/rodrigochavesoa] | GitHub: @rodrigochavesoa**  
 **Email: pontochavedesign@gmail.com**
 
 ---
@@ -412,7 +414,7 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 
 📧 **Email:** pontochavesdesign@gmail.com  
 🐙 **GitHub:** [@rodrigochavesoa](https://github.com/rodrigochavesoa)  
-💼 **LinkedIn:** [rodrigo-chaves](seu-link)  
+💼 **LinkedIn:** [rodrigo-chaves](www.linkedin.com/in/rodrigochavesoa)  
 📍 **Localização:** Salvador, BA - Brasil  
 🌐 **Disponibilidade:** Remoto | Híbrido | Presencial  
 
@@ -421,7 +423,7 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 ## 🔗 PORTFÓLIO DE PROJETOS
 
 ### **STAFF Personal Trainer**
-🔗 GitHub: [staff-personal-trainer](link-repo)  
+🔗 Website: [staff-personal-trainer]()  
 📱 Status: Beta Testing | Aberto a investidores  
 🎯 Tech Stack: Python, LangChain, Gemini 2.5, FAISS, RAG, Tkinter
 
@@ -445,7 +447,7 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 
 ---
 
-**Última Atualização:** Novembro 2025  
+**Última Atualização:** Janeiro 2026  
 **Status:** ✅ Disponível para novas oportunidades  
 **Tipo de Contrato:** PJ | CLT | Freelance
 
