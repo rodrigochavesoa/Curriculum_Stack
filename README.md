@@ -133,11 +133,12 @@ Seeking leadership or senior technical roles in innovative companies valuing **A
 
 #======================================================================================
 
-Version PT BR
+## Version PT BR
+
 # Rodrigo Chaves
 ## 🎯 AI Engineer | Python Developer | UX/PM especializado em IA & Automação
 
-**Feira de Santana, BA
+**Feira de Santana, BA | Brasil
 
 ---
 
