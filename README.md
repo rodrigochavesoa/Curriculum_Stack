@@ -126,6 +126,8 @@ Seeking leadership or senior technical roles in innovative companies valuing **A
 * **Technical Product Manager** (AI-Driven SaaS)
 * **Solutions Architect** (Data Processing Systems)
 
+> "Transforming complex problems into elegant solutions through AI, clean code, and user empathy."
+
 ---
 **Last Updated:** February 2026 | **Status:** ✅ Open to New Opportunities
 
