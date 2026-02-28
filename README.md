@@ -327,7 +327,7 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 ## 🔗 PORTFÓLIO DE PROJETOS
 
 ### **STAFF Personal Trainer**
-🔗 Website:Projeto Front End [STAFF APP](https:www.rcstorestaff.com.br)
+🔗 Website:Projeto Front End [STAFF APP](https://www.rcstorestaff.com.br)
 🔗 Website:Projeto Back End [STAFF APP](https://rodrigochavesoa.github.io/STAFF-Colab)
 📧 **Email:** [atendimento@rcstorestaff.com.br](mailto:atendimento@rcstorestaff.com.br)
 📱 Status: Beta Testing | Aberto a investidores  
