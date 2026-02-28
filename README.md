@@ -55,7 +55,7 @@ WebSite: Project Front-End [RCSTORE LOJA](https://www.rcstorestaff.com.br/loja)
 
 #### 📋 Public Procurement Monitor - PNCP (Software Architect)
 
-GitHub: [@rodrigochavesoa/monitor_licitacoes](https://github.com/rodrigochavesoa/monitor_licitacoes)  
+GitHub: [@rodrigochavesoa/monitor_licitacoes](https://rodrigochavesoa.github.io/Monitor_de_Licitacoes_PNCP)  
 *Real-time automation system for monitoring Brazilian government tenders via PNCP API.*
 **Stack:** Python, Node.js, Express.js, GeoPy, ClickUp API, Shapefile Processing.
 
