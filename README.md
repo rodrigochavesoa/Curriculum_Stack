@@ -1,238 +1,141 @@
-Version #1
+## Version English 
+
 # Rodrigo Chaves
-## AI Engineer | Python Developer | Product Manager
+### 🎯 AI Engineer | Python Developer | Technical Product Manager
 
-**Feira de Santana, BA | Brasil**  
-**Email:** pontochavedesign@gmail.com  
-**GitHub:** @rodrigochavesoa  
-**LinkedIn:** [rodrigochavesoa]
-
----
-
-## PERFIL PROFISSIONAL
-
-Full-Stack Developer com especialização em soluções baseadas em Inteligência Artificial, arquitetura RAG e automação de processos. Experiência comprovada no desenvolvimento de produtos SaaS que integram IA generativa, processamento de linguagem natural e design centrado no usuário. Histórico de entrega de sistemas escaláveis com foco em impacto mensurável e sustentabilidade técnica.
-
-**Áreas de Atuação:**
-- Arquitetura de sistemas de IA com Large Language Models (LLMs)
-- Desenvolvimento de pipelines RAG (Retrieval-Augmented Generation)
-- Automação de processos governamentais e corporativos
-- Gestão de produtos orientados a dados e escalabilidade
+**Location:** Feira de Santana, BA | Brazil (Available for Remote/Relocation)
+**LinkedIn:** [linkedin.com/in/rodrigochavesoa](https://www.linkedin.com/in/rodrigochavesoa) | **GitHub:** [@rodrigochavesoa](https://github.com/rodrigochavesoa)
+**Portfolio:** [behance.net/rodrigochavesoa](https://behance.net/rodrigochavesoa) | **Email:** [pontochavedesign@gmail.com](mailto:pontochavedesign@gmail.com)
 
 ---
 
-## EXPERIÊNCIA PROFISSIONAL
+## 💡 PROFESSIONAL PROFILE
+
+Full-Stack Developer specializing in AI-driven solutions, RAG (Retrieval-Augmented Generation) architecture, and process automation. Proven track record in developing SaaS products that integrate Generative AI, Natural Language Processing (NLP), and user-centric design. Experienced in delivering scalable systems with a focus on measurable business impact and technical sustainability.
+
+**Key Focus Areas:**
+- **AI Systems Architecture:** Designing with Large Language Models (LLMs).
+- **RAG Pipelines:** End-to-end Retrieval-Augmented Generation development.
+- **Enterprise Automation:** Streamlining government and corporate workflows.
+- **Data-Driven Product Management:** Leading scalable, high-growth digital products.
+
+---
+
+## 💼 PROFESSIONAL EXPERIENCE
 
 ### Ponto Chave Design | Founder & Lead Developer
-**Período:** Jan 2023 - Atual  
-**Localização:** Feira de Santana, BA (Remoto)
+**Jan 2023 – Present** | Remote
 
-Liderança técnica e estratégica de agência AI-Driven especializada em soluções SaaS e design de produtos digitais. Responsável pela arquitetura, desenvolvimento e gestão de projetos para clientes nos setores fitness, e-commerce e varejo.
+Technical and strategic lead for an AI-Driven agency specializing in SaaS solutions and digital product design. Responsible for the architecture, development, and project management for clients in the fitness, e-commerce, and retail sectors.
 
-**Principais Projetos:**
+#### 🏋️ STAFF Personal Trainer (Lead Product & Dev)
 
-#### STAFF Personal Trainer (2019 - Atual)
-**Cargo:** Founder & Lead Developer  
-**Stack:** Python, LangChain, Google Gemini 2.5, FAISS, RAG, Tkinter, SQLite, Pandas, PyMuPDF
+WebSite:Project Front-end [STAFF APP](https://www.rcstorestaff.com.br/staff) 
+*AI-powered ecosystem for automated, science-based workout programming.*
+**Stack:** Python, LangChain, Google Gemini 2.5, FAISS (Vector DB), RAG, Tkinter, SQLite, Pandas.
 
-Sistema desktop baseado em IA para geração automatizada de fichas de treino personalizadas.
+* **RAG Architecture:** Engineered a full RAG system using LangChain and FAISS for semantic search across vectorized scientific databases.
+* **Knowledge Engineering:** Built a PDF processing pipeline with semantic chunking and custom embeddings.
+* **System Design:** Implemented a relational SQLite schema with automated migrations and multi-tenant architecture for gym class management.
+* **Performance:** Optimized UI responsiveness using multi-threading for heavy AI inference tasks.
+* **Quantifiable Results:**
+    * **90%+ Reduction** in time spent on workout creation.
+    * Integrated **7+ specialized user profiles** and **12+ training focuses** with automated scientific validation.
 
-**Responsabilidades Técnicas:**
-- Desenvolvimento de arquitetura RAG completa utilizando LangChain e FAISS para busca semântica em base científica vetorizada
-- Implementação de pipeline de processamento de documentos PDF com chunking inteligente e embeddings
-- Design e implementação de schema relacional SQLite com sistema de migrações automáticas
-- Desenvolvimento de sistema de validação de inputs e regras automáticas baseadas em perfil de usuário
-- Implementação de arquitetura multi-tenant para gerenciamento de turmas
-- Otimização de processamento assíncrono com threading para interface responsiva
-- Integração com WhatsApp e desenvolvimento de exportadores multiplataforma
+#### 🛒 RC Store - Integrated Fitness Platform (Tech Lead)
 
-**Resultados Mensuráveis:**
-- Automação de 90%+ do tempo de criação de fichas de treino
-- Sistema de personalização com 7+ perfis especializados e 12+ focos de treino
-- Fundamentação científica integrada via RAG com validação automática
-- Interface gráfica profissional com validadores em tempo real
+WebSite: Project Front-End [RCSTORE LOJA](https://www.rcstorestaff.com.br/loja)
+*Web platform combining exercise libraries with e-commerce integration.*
+**Stack:** Node.js, JavaScript (ES6+), Serverless Functions, OAuth 2.0, Mercado Livre API.
 
-**Tecnologias Aplicadas:**
-- Prompt engineering avançado para Google Gemini 2.5 Flash
-- Vector database (FAISS) para semantic search
-- Data processing com Pandas para seleção inteligente de exercícios
-- Logging estruturado para debugging e auditoria
+* **Search Engine:** Developed an intelligent search system with multi-criteria filtering for a catalog of 200+ exercises.
+* **Integrations:** Spearheaded full OAuth 2.0 integration with Mercado Livre for secure sales processing.
+* **Backend:** Leveraged Netlify Functions (Serverless) for secure token handling and backend logic.
+* **Deployment:** Managed CI/CD pipelines via Netlify, ensuring high availability and rapid iteration.
 
-#### RC Store - Plataforma Fitness Integrada (2024 - Atual)
-**Cargo:** Tech Lead & Full-Stack Developer  
-**Stack:** HTML5, CSS3, JavaScript (ES6+), Node.js, Netlify Functions, OAuth 2.0, Mercado Livre API
+#### 📋 Public Procurement Monitor - PNCP (Software Architect)
 
-Plataforma web que combina guia de exercícios de academia com loja virtual de produtos fitness.
+GitHub: [@rodrigochavesoa/monitor_licitacoes](https://github.com/rodrigochavesoa/monitor_licitacoes)  
+*Real-time automation system for monitoring Brazilian government tenders via PNCP API.*
+**Stack:** Python, Node.js, Express.js, GeoPy, ClickUp API, Shapefile Processing.
 
-**Responsabilidades Técnicas:**
-- Desenvolvimento de sistema de busca inteligente com filtros por nome, grupo muscular e código de exercício
-- Implementação de ficha de treino online personalizável com gerenciamento em tempo real
-- Integração OAuth 2.0 completa com Mercado Livre API para processamento de vendas
-- Desenvolvimento de Netlify Functions para processamento seguro de tokens de acesso
-- Arquitetura de frontend responsivo com navegação otimizada
-- Implementação de visualização de exercícios com demonstrações em GIF
+* **Geospatial Engine:** Developed a radius-based filtering system using IBGE shapefiles and GeoPy for location-based alerts.
+* **ETL & Automation:** Engineered a 3-tier filtering logic and integrated ClickUp API via webhooks for automated task generation.
+* **Reliability:** Implemented robust error handling with rate limiting and retry logic for high-frequency API consumption.
+* **Impact:** **80% reduction** in time-to-identify government opportunities for clients.
 
-**Resultados Mensuráveis:**
-- Sistema de busca com resposta em tempo real para catálogo de 200+ exercícios
-- Interface de montagem de treino com adição de exercícios em um clique
-- Integração completa com parceiros externos (Mercado Livre, WhatsApp, Instagram, Spotify)
-- Deploy automatizado via Netlify com CI/CD
+### WP7 Engenharia | Operations & Automation Consultant
+**2024 – Present** | Hybrid
 
-**Tecnologias Aplicadas:**
-- OAuth 2.0 para autenticação e autorização
-- Serverless functions para processamento backend
-- API REST para integração com Mercado Livre
-- Git workflow com branches de desenvolvimento e produção
-
-#### Monitor de Licitações PNCP (2024 - Atual)
-**Cargo:** Arquiteto de Software & Desenvolvedor  
-**Stack:** Python, Node.js, Express.js, RESTful API, GeoPy, ClickUp API, Pandas, Shapefile Processing
-
-Sistema escalável para monitoramento automatizado de licitações públicas em tempo real via API do Portal Nacional de Contratações Públicas.
-
-**Responsabilidades Técnicas:**
-- Desenvolvimento de API Integration com PNCP incluindo rate limiting e retry logic
-- Implementação de engine geoespacial para filtro por distância usando coordenadas e shapefiles IBGE
-- Desenvolvimento de sistema de filtros multi-nível (3 camadas) configuráveis via environment variables
-- Criação de export engine para geração de relatórios em JSON, CSV e XLSX
-- Integração com ClickUp via webhook e API REST para criação automática de tarefas
-- Implementação de sistema de monitoramento em tempo real com alertas
-- Desenvolvimento de error handling robusto com logging estruturado
-
-**Resultados Mensuráveis:**
-- Monitoramento automatizado de 50+ cidades em raio de 300km
-- Alertas segmentados por setor de negócio com 99% de uptime
-- Redução de 80% no tempo de identificação de oportunidades
-- Processamento de dados geográficos do IBGE com precisão de 100m
-
-**Arquitetura Implementada:**
-- Backend Python para processamento de dados e lógica de negócio
-- API Node.js/Express para integrações externas
-- Pipeline ETL para processamento de dados geográficos
-- Sistema de configuração flexível baseado em environment variables
-
-### WP7 Engenharia | Consultor de Produtividade & Automação
-**Período:** 2024 - Atual  
-**Localização:** Serrinha, BA (Híbrido)
-
-Desenvolvimento de soluções de automação para gestão de obras e processos administrativos.
-
-**Entregas:**
-- Módulos de automação para gestão de obras com integração multi-plataforma
-- Sistema de gestão documental para processos licitatórios
-- Módulos administrativos e financeiros customizados
-- Dashboards de produtividade com KPIs operacionais
-
-**Stack:** Python, Automação de Processos, Gestão Documental, APIs
+Focusing on streamlining construction management and administrative workflows through automation.
+* Developed multi-platform automation modules for project management.
+* Built document management systems for complex procurement processes.
+* **Stack:** Python, API Integrations, KPI Dashboards.
 
 ---
 
-## COMPETÊNCIAS TÉCNICAS
+## 🛠️ TECHNICAL SKILLS
 
-### Inteligência Artificial & Machine Learning
-Google Gemini 2.5 Flash, LangChain Framework, RAG Architecture, FAISS Vector Database, Google Generative AI Embeddings, NLP, Semantic Search, Prompt Engineering, Document Processing Pipelines
+### 🤖 AI & Machine Learning
+`Google Gemini 2.5 Flash` • `LangChain` • `RAG Architecture` • `FAISS` • `Vector Embeddings` • `Semantic Search` • `Prompt Engineering` • `NLP`
 
-### Backend & Core Development
-Python 3.8+, SQLite, PostgreSQL, RESTful APIs, Express.js, Node.js, Threading/AsyncIO, API Integration, Webhooks, OAuth 2.0, JWT
+### ⚙️ Backend & Data Engineering
+`Python 3.8+` • `Node.js` • `Express.js` • `PostgreSQL/SQLite` • `RESTful APIs` • `Pandas/NumPy` • `ETL Pipelines` • `AsyncIO/Threading`
 
-### Data Engineering & Processing
-Pandas, NumPy, PyMuPDF, Data Pipelines, CSV/JSON/Excel Processing, ETL Workflows, Document Extraction, Data Validation & Sanitization
+### 🎨 Product & UX Design
+`Technical Product Management (TPM)` • `UX Research` • `Design Thinking` • `Prototyping` • `Responsive Design` • `WCAG Accessibility`
 
-### Frontend & UI
-HTML5, CSS3, JavaScript (ES6+), Tkinter, Responsive Design, UX Research, Design Thinking, Prototyping
-
-### DevOps & Infrastructure
-Git/GitHub, pytest, CI/CD, Netlify, Netlify Functions, Environment Management, Code Coverage, Automated Versioning (setuptools-scm), Logging Estruturado
-
-### APIs & Integrations
-ClickUp API, PNCP API, Mercado Livre API, Google APIs, Webhook Development, Third-party Integration, Rate Limiting
-
-### Geospatial & Data Science
-GeoPy, Shapefile Processing, Spatial Analysis, Distance Calculations, Geographic Filtering, IBGE Data Processing
+### 🚀 DevOps & Infrastructure
+`Git/GitHub` • `CI/CD` • `Netlify Functions` • `pytest` • `Automated Versioning` • `Structured Logging` • `OAuth 2.0`
 
 ---
 
-## FORMAÇÃO ACADÊMICA
+## 🎓 EDUCATION & CERTIFICATIONS
 
-**Gestão de Projetos** | Metodologias Ágeis e Tradicionais  
-**UX Design** | Research, Design Thinking, Prototipagem  
-**Python Development** | Backend, APIs, Data Processing  
-**AI/ML** | LangChain, RAG, Vector Databases, Embeddings
-**Profissional de Educação Física** | Reabilitação de Lesões e Doenças Musculoesqueléticas
-**Engenharia de Produção** | Gestão de Pessoas e Fluxo de Trabalho em Produção.
-
----
-
-## FRAMEWORKS & METODOLOGIAS
-
-- DARE Framework (Design AI Reliable Engagement)
-- CRISP-AI v2.1 (Engenharia de Software para IA)
-- WCAG 2.1 Level AA (Acessibilidade Web)
-- Clean Architecture
-- Test-Driven Development (TDD)
-- Agile/Scrum
+* **Project Management** | Agile & Waterfall Methodologies
+* **UX Design** | Research, Design Thinking, Prototyping
+* **Python Development** | Backend, APIs, Data Processing
+* **AI/ML Specialist** | LangChain, RAG, Vector Databases
+* **B.S. in Physical Education** | Specialized in Musculoskeletal Rehabilitation
+* **B.S. in Production Engineering** | Focus on Workflow Management & Human Capital
 
 ---
 
-## IDIOMAS
+## 📐 FRAMEWORKS & METHODOLOGIES
 
-**Português:** Nativo  
-**Inglês:** Intermediário Avançado (Técnico)
-
----
-
-## OBJETIVO PROFISSIONAL
-
-Busco oportunidades em empresas que valorizam IA aplicada, automação inteligente e produtos centrados no usuário. Interesse específico em:
-
-- AI/ML Engineer com foco em IA Generativa e RAG
-- Senior Python Developer para backend e automação
-- Technical Product Manager para produtos AI-Driven
-- Solutions Architect para sistemas de processamento de dados
+* **DARE Framework** (Design AI Reliable Engagement)
+* **CRISP-AI v2.1** (Software Engineering for AI)
+* **WCAG 2.1 Level AA** (Web Accessibility)
+* **Clean Architecture** & **Test-Driven Development (TDD)**
+* **Agile/Scrum**
 
 ---
 
-## CONTATO
+## 🌐 LANGUAGES
 
-**Email:** pontochavedesign@gmail.com  
-**GitHub:** @rodrigochavesoa  
-**LinkedIn:** @rodrigochavesoa  
-**Localização:** Feira de Santana, BA - Brasil  
-**Disponibilidade:** Remoto | Híbrido | Presencial
+* **Portuguese:** Native
+* **English:** Professional Working Proficiency (Technical/Business focus)
 
 ---
 
-## PORTFÓLIO DE PROJETOS
+## 🎯 CAREER OBJECTIVE
 
-**STAFF Personal Trainer**  
-WebSite: [[staff-personal-trainer] ](https://www.rcstorestaff.com.br/staff) 
-Status: Beta Testing | Aberto a investidores  
-Tech Stack: Python, LangChain, Gemini 2.5, FAISS, RAG, Tkinter
-
-**RC Store - Plataforma Fitness**  
-GitHub: [rc-store]  (https://www.rcstorestaff.com.br/loja) 
-Status: Produção  
-Tech Stack: HTML5, CSS3, JavaScript, Node.js, Netlify Functions, OAuth 2.0
-
-**Monitor de Licitações PNCP**  
-GitHub: @rodrigochavesoa/monitor_licitacoes  
-Status: Produção  
-Tech Stack: Python, Node.js, Express, GeoPy, ClickUp API
+Seeking leadership or senior technical roles in innovative companies valuing **Applied AI, Intelligent Automation,** and **User-Centric Products**.
+* **AI/ML Engineer** (Generative AI & RAG)
+* **Senior Python Developer** (Backend & Automation)
+* **Technical Product Manager** (AI-Driven SaaS)
+* **Solutions Architect** (Data Processing Systems)
 
 ---
-
-**Última Atualização:** Novembro 2025  
-**Status:** Disponível para novas oportunidades  
-**Tipo de Contrato:** PJ | CLT | Freelance
+**Last Updated:** February 2026 | **Status:** ✅ Open to New Opportunities
 
 #======================================================================================
 
-Version English
+Version PT BR
 # Rodrigo Chaves
 ## 🎯 AI Engineer | Python Developer | UX/PM especializado em IA & Automação
 
-**Salvador, BA | LinkedIn: [www.linkedin.com/in/rodrigochavesoa] | GitHub: @rodrigochavesoa**  
-**Email: pontochavedesign@gmail.com**
+**Feira de Santana, BA
 
 ---
 
@@ -412,10 +315,11 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 
 ## 📞 CONTATO
 
-📧 **Email:** pontochavesdesign@gmail.com  
+📧 **Email:** [pontochavesdesign@gmail.com](mailto:pontochavedesign@gmail.com)
 🐙 **GitHub:** [@rodrigochavesoa](https://github.com/rodrigochavesoa)  
-💼 **LinkedIn:** [rodrigo-chaves](www.linkedin.com/in/rodrigochavesoa)  
-📍 **Localização:** Salvador, BA - Brasil  
+💼 **LinkedIn:** [rodrigo-chavesoa](www.linkedin.com/in/rodrigochavesoa)  
+ 🎯 **Behance:** [rodrigo-chavesoa](https://behance.net/rodrigochavesoa)
+📍 **Localização:** Feira de Santana, BA - Brasil  
 🌐 **Disponibilidade:** Remoto | Híbrido | Presencial  
 
 ---
@@ -423,9 +327,11 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 ## 🔗 PORTFÓLIO DE PROJETOS
 
 ### **STAFF Personal Trainer**
-🔗 Website: [staff-personal-trainer]()  
+🔗 Website:Projeto Front End [STAFF APP](https:www.rcstorestaff.com.br)
+🔗 Website:Projeto Back End [STAFF APP](https://rodrigochavesoa.github.io/STAFF-Colab)
+📧 **Email:** [atendimento@rcstorestaff.com.br](mailto:atendimento@rcstorestaff.com.br)
 📱 Status: Beta Testing | Aberto a investidores  
-🎯 Tech Stack: Python, LangChain, Gemini 2.5, FAISS, RAG, Tkinter
+🎯 Tech Stack DEV: Python, LangChain, Gemini 2.5, FAISS, RAG, Tkinter, HTML, JavaScript, Flask, Frameworks Design System, Supabase, React Native, Next.Js, PostgreSQL
 
 ### **Monitor de Licitações PNCP**
 🔗 GitHub: [@rodrigochavesoa/monitor_licitacoes](https://github.com/rodrigochavesoa/monitor_licitacoes)  
@@ -441,13 +347,7 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 
 ---
 
-## 📊 ESTATÍSTICAS GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigochavesoa&show_icons=true&theme=radical)
-
----
-
-**Última Atualização:** Janeiro 2026  
+**Última Atualização:** Fevereiro 2026  
 **Status:** ✅ Disponível para novas oportunidades  
 **Tipo de Contrato:** PJ | CLT | Freelance
 
