@@ -331,7 +331,7 @@ Busco oportunidades em empresas inovadoras que valorizam **IA aplicada**, **auto
 
 ### **STAFF Personal Trainer**
 🔗 Website:Projeto Front End [STAFF APP](https://www.rcstorestaff.com.br)
-🔗 Website:Projeto Back End [STAFF APP](https://rodrigochavesoa.github.io/STAFF-Colab)
+🔗 Website:Projeto Back End [STAFF APP](https://rodrigochavesoa.github.io/Colab_Developer)
 📧 **Email:** [atendimento@rcstorestaff.com.br](mailto:atendimento@rcstorestaff.com.br)
 📱 Status: Beta Testing | Aberto a investidores  
 🎯 Tech Stack DEV: Python, LangChain, Gemini 2.5, FAISS, RAG, Tkinter, HTML, JavaScript, Flask, Frameworks Design System, Supabase, React Native, Next.Js, PostgreSQL
